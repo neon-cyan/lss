@@ -2,3 +2,4 @@
 lang
 venv
 !SAMPLE/*.out
+.ipynb_checkpoints
